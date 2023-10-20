@@ -1,0 +1,128 @@
+[
+    {
+        "Tproj": "ADV-General",
+        "Tcust": "Adevinta",
+        "Eproj": "2022.0002",
+        "Eprojcode": "CONS-EXT-PROJ"
+    },
+    {
+        "Tproj": "ADV-Incidents",
+        "Tcust": "Adevinta",
+        "Eproj": "2022.0002",
+        "Eprojcode": "HOSTING"
+    },
+    {
+        "Tproj": "ADV-Meetings",
+        "Tcust": "Adevinta",
+        "Eproj": "2022.0002",
+        "Eprojcode": "CONS-EXT-MEET"
+    },
+    {
+        "Tproj": "ADV-Project",
+        "Tcust": "Adevinta",
+        "Eproj": "2022.0002",
+        "Eprojcode": "CONS-EXT-PROJ"
+    },
+    {
+        "Tproj": "DCG-Meetings",
+        "Tcust": "DDCG",
+        "Eproj": "2022.0024",
+        "Eprojcode": "CONS-EXT-MEET"
+    },
+    {
+        "Tproj": "TN-General",
+        "Tcust": "TechNative",
+        "Eproj": "INTERN",
+        "Eprojcode": "NON BILLABLE"
+    },
+    {
+        "Tproj": "TN-Incidents",
+        "Tcust": "TechNative",
+        "Eproj": "INTERN",
+        "Eprojcode": "CONS-INT-PROJ"
+    },
+    {
+        "Tproj": "TN-Learning",
+        "Tcust": "TechNative",
+        "Eproj": "INTERN",
+        "Eprojcode": "TRAINING"
+    },
+    {
+        "Tproj": "TN-Meetings",
+        "Tcust": "TechNative",
+        "Eproj": "INTERN",
+        "Eprojcode": "CONS-INT-MEET"
+    },
+    {
+        "Tproj": "TN-Other",
+        "Tcust": "TechNative",
+        "Eproj": "INTERN",
+        "Eprojcode": "NON BILLABLE"
+    },
+    {
+        "Tproj": "PSB-General",
+        "Tcust": "PastBook",
+        "Eproj": "2022.0027",
+        "Eprojcode": "CONS-EXT-PROJ"
+    },
+    {
+        "Tproj": "PSB-Incidents",
+        "Tcust": "PastBook",
+        "Eproj": "2022.0027",
+        "Eprojcode": "CONS-EXT-PROJ"
+    },
+    {
+        "Tproj": "PSB-Project",
+        "Tcust": "PastBook",
+        "Eproj": "2022.0027",
+        "Eprojcode": "CONS-EXT-PROJ"
+    },
+    {
+        "Tproj": "PSB-Meetings",
+        "Tcust": "PastBook",
+        "Eproj": "2022.0027",
+        "Eprojcode": "CONS-EXT-MEET"
+    },
+    {
+        "Tproj": "DL-Meetings",
+        "Tcust": "Dreamlines",
+        "Eproj": "2022.0025",
+        "Eprojcode": "CONS-EXT-MEET"
+    },
+    {
+        "Tproj": "DL-Project",
+        "Tcust": "Dreamlines",
+        "Eproj": "2022.0025",
+        "Eprojcode": "CONS-EXT-PROJ"
+    },
+    {
+        "Tproj": "DL-Incidents",
+        "Tcust": "Dreamlines",
+        "Eproj": "2022.0025",
+        "Eprojcode": "CONS-EXT-PROJ"
+    },
+    {
+        "Tproj": "DCG-General",
+        "Tcust": "DDCG",
+        "Eproj": "2022.0024",
+        "Eprojcode": "CONS-EXT-PROJ"
+    },
+    {
+        "Tproj": "DCG-Incidents",
+        "Tcust": "DDCG",
+        "Eproj": "2022.0024",
+        "Eprojcode": "CONS-EXT-PROJ"
+    },
+    {
+        "Tproj": "DCG-Project",
+        "Tcust": "DDCG",
+        "Eproj": "2022.0024",
+        "Eprojcode": "CONS-EXT-PROJ"
+    },
+    {
+        "Tproj": "",
+        "Tcust": "",
+        "Eproj": "",
+        "Eprojcode": ""
+    }
+]
